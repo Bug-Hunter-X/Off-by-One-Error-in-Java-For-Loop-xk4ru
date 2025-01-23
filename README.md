@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java and its solution. The `Bug.java` file contains the erroneous code, which results in an `ArrayIndexOutOfBoundsException`. The corrected code is provided in `BugSolution.java`, illustrating how to fix this type of error.
